@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayushman Sinha</h1>
+<h1 align="center">Hi 👋, I'm Ayushman Sinha 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="20" height="20">
+</h1>
 <h3 align="center">A competitive coder and web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman-sinha" /> </p>
