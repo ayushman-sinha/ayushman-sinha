@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushman_sinha_" target="blank"><img src="https://img.shields.io/twitter/follow/ayushman_sinha_?logo=twitter&style=for-the-badge" alt="ayushman_sinha_" /></a> </p>
 
-- 🌱 I’m currently learning **C++,Javascript,Ract,Node JS**
+- 🌱 I’m currently learning **C++,Javascript,React,Node JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushman-sinha](https://github.com/ayushman-sinha)
 
