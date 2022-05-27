@@ -2,8 +2,8 @@
 </h1>
 <h3 align="center">A competitive coder and web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman-sinha&label=Profile%200views&color=0e75b6&style=flat" alt="ayushman-sinha" /> </p>
-<!-- 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman-sinha" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman-sinha" alt="ayushman-sinha" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ayushman_sinha_" target="blank"><img src="https://img.shields.io/twitter/follow/ayushman_sinha_?logo=twitter&style=for-the-badge" alt="ayushman_sinha_" /></a> </p>
