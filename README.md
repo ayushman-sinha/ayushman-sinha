@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman-sinha" alt="ayushman-sinha" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/ayushman_sinha_" target="blank"><img src="https://img.shields.io/twitter/follow/ayushman_sinha_?logo=twitter&style=for-the-badge" alt="ayushman_sinha_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayushman_sinha_" target="blank"><img src="https://img.shields.io/twitter/follow/ayushman_sinha_?logo=twitter&style=for-the-badge" alt="ayushman_sinha_" /></a> </br> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushman-sinha&show_icons=true&locale=en&layout=compact" alt="ayushman-sinha" /> </p> 
 
-- 🌱 I’m currently learning **C++,Javascript,React,Node JS**  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushman-sinha&show_icons=true&locale=en&layout=compact" alt="ayushman-sinha" /></p>
+- 🌱 I’m currently learning **C++,Javascript,React,Node JS**  
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushman-sinha](https://github.com/ayushman-sinha)
 
